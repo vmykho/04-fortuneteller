@@ -1,0 +1,27 @@
+@charset "UTF-8";
+body header {
+
+	background-image: url("fortunetellerbanner.jpg");
+	height:400px;
+	background-repeat: no-repeat;
+    background-position: center top;
+}
+
+body {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body header h1, body header h2{
+	padding-left: 450px;
+	color:white;
+}
+
+main {
+	padding-left: 200px;
+}
+
+footer {
+	padding-top: 50px;
+	padding-left: 200px;
+}
+
